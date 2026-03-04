@@ -1,6 +1,6 @@
 # GraphQL + Neo4j Social Network Case Study
 
-![Graph Visualization](screenshots/graph-visualization.png)
+![Graph Visualization](Screenshots/graph-visualization.png)
 
 ## Project Overview
 
