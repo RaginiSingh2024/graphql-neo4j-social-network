@@ -150,39 +150,26 @@ Output:
 
 ## Screenshots
 
-### Neo4j Database Instance
-
-![Neo4j Instance](screenshots/neo4j-instance.png)
-
-### Post Node Creation
-
-![Create Post](screenshots/create-post.png)
-
-### Comment Relationship
-
-![Comment](screenshots/comment.png)
-
-### Like Relationship
-
-![Like](screenshots/like.png)
-
-### Friend Request Relationship
-
-![Friend Request](screenshots/friend-request.png)
-
 ### Graph Visualization
+![Graph Visualization](Screenshots/graph-visualization.png)
 
-![Graph Visualization](screenshots/graph-visualization.png)
+### Neo4j Database Instance
+![Neo4j Instance](Screenshots/neo4j-instance.png)
 
-### GraphQL Query Execution
+### Create Post Mutation
+![Create Post](Screenshots/create-post.png)
 
-![GraphQL Query](screenshots/graphql-query.png)
+### Comment on Post
+![Comment](Screenshots/comment.png)
 
-### GraphQL Mutation Execution
+### Send Friend Request
+![Friend Request](Screenshots/friend-request.png)
 
-![GraphQL Mutation](screenshots/graphql-mutation.png)
+### GraphQL Query
+![GraphQL Query](Screenshots/graphql-query.png)
 
----
+### GraphQL Mutation
+![GraphQL Mutation](Screenshots/graphql-mutation.png)
 
 # Documentaion/Report Link 
 https://docs.google.com/document/d/1vANSBU0GICscDTKU6cM66O6FCCd7F7YxGnoXnIyrXpg/edit?usp=sharing
