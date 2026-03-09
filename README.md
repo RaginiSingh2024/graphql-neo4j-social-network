@@ -1,7 +1,22 @@
 # GraphQL + Neo4j Social Network Case Study
 
+<p align="center">
+
+<a href="https://docs.google.com/document/d/1vANSBU0GICscDTKU6cM66O6FCCd7F7YxGnoXnIyrXpg/edit?usp=sharing">
+<img src="https://img.shields.io/badge/View%20Documentation-blue?style=for-the-badge">
+</a>
+
+<a href="https://github.com/RaginiSingh2024/graphql-neo4j-social-network">
+<img src="https://img.shields.io/badge/GitHub%20Repository-black?style=for-the-badge">
+</a>
+
+<img src="https://img.shields.io/badge/Tech-GraphQL%20%7C%20Neo4j%20%7C%20FastAPI-green?style=for-the-badge">
+
+</p>
+
 ![Graph Visualization](Screenshots/graph-visualization.png)
 
+---
 ## Project Overview
 
 This project demonstrates the implementation of a **Social Network Management System using GraphQL and Neo4j Graph Database**.
