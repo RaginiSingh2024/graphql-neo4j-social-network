@@ -186,8 +186,11 @@ Output:
 ### GraphQL Mutation
 ![GraphQL Mutation](Screenshots/graphql-mutation.png)
 
-# Documentaion/Report Link 
-https://docs.google.com/document/d/1vANSBU0GICscDTKU6cM66O6FCCd7F7YxGnoXnIyrXpg/edit?usp=sharing
+## Project Documentation
+
+Full project documentation and report:
+
+📄 https://docs.google.com/document/d/1vANSBU0GICscDTKU6cM66O6FCCd7F7YxGnoXnIyrXpg/edit?usp=sharing
 
 
 ## Conclusion
@@ -200,8 +203,7 @@ GraphQL provides a flexible API layer that allows clients to request only the da
 
 ## Author
 
-**Ragini Singh**
-Semester IV
-Graphql/Graphdb Case Study (134)
-Roll No : 150096724023 (JH)
-
+**Ragini Singh**  
+B.Tech CSE – Semester IV  
+GraphQL & GraphDB Case Study (134)  
+ITM Skills University
